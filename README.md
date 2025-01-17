@@ -10,6 +10,11 @@ By integrating cutting-edge technologies, this project offers a practical and ro
 
 I am actively working on modifying the system and aim to release the updated version as soon as possible.
 
+# Create separate folders for input_videos, models and output_videos
+
+# Original dataset (video) link - Removed from kaggle
+https://www.kaggle.com/competitions/dfl-bundesliga-data-shootout/data?select=clips
+
 # Input video link
 https://drive.google.com/file/d/1t6agoqggZKx6thamUuPAIdN_1zR9v9S_/view
 
