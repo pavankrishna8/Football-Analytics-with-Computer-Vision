@@ -1,6 +1,6 @@
 
 from roboflow import Roboflow
-rf = Roboflow(api_key="r3aE30QV9YJfZqSLfIWz")
+rf = Roboflow(api_key="Enter your API key here")
 project = rf.workspace("roboflow-jvuqo").project("football-players-detection-3zvbc")
 version = project.version(1)
 dataset = version.download("yolov5")
